@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">IIITD Mess App</string>
+    <string name="terms_of_use_for_admin">Terms of Use for Admin</string>
+    <string name="i_accept">I accept</string>
+    <string name="terms_of_use_for_user">Terms of Use for User</string>
+    <string name="register">REGISTER</string>
+    <string name="buy_coupons">Buy Coupons</string>
+    <string name="server_client_id">239168504846-gc4umqbeshem7l4g2p65su6goesl8doa.apps.googleusercontent.com</string>
+    <string name="submit">Submit</string>
+    <string name="buy">BUY</string>
+    <string name="scan">SCAN</string>
+    <string-array name="meal_types">
+        <item>Dosa</item>
+        <item>Idli</item>
+        <item>Puri</item>
+        <item>Paratha</item>
+        <item>Chapati</item>
+        <item>Pulao</item>
+        <item>Biryani</item>
+    </string-array>
+
+    <string-array name="days_of_week">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+</resources>

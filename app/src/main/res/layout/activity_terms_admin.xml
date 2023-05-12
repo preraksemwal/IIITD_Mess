@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Terms and Conditions"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:padding="16dp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#000000"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="irubrw wrv wr vowuev owu vow rvouwrov woruv owr v
+wovu wrovuwr vowru vow ruvowr vow rvuowr v
+ rowv woru vouwr vow rouv worv ouwr vou wrv]
+wovu owr vouwr vou wrv owr vowr vowr uvwr
+ wrv owr vowruv owr vouwr vowr uov"
+            android:textColor="#000000"
+            android:textSize="16sp"
+            android:padding="16dp"/>
+
+    </ScrollView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#000000"/>
+
+    <Button
+        android:id="@+id/agree_button_admin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="I agree"
+        android:textSize="16sp"
+        android:textStyle="bold"
+
+        android:padding="16dp"/>
+
+</LinearLayout>
