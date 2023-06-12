@@ -5,4 +5,13 @@ The student portal enables IIITD students to conveniently purchase mess coupons 
 It provides students access to the daily menu and facilitates coupon purchases using QR code scanning.</br>
 
 The admin portal empowers the administrator to set the menu for each day and efficiently manage student records.
-The admin can view and manipulate student data if required.
+The admin can view and manipulate student data if required.</br></br>
+
+<h2> Tech Stack </h2>
+
+- Design: **Figma**
+- Programming Language: **Java**
+- Backend: **Node.js**
+- Database: **MongoDB**
+- Authentication: **IIITD-only Google Authentication**
+- Location Services: User tracking using **location services**
