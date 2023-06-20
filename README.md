@@ -9,11 +9,11 @@ It provides students access to the daily menu and facilitates coupon purchases u
 The admin portal empowers the administrator to set the menu for each day and efficiently manage student records.
 The admin can view and manipulate student data if required.</br></br>
 
-<h2>Student Portal</h2>
+### :busts_in_silhouette: Student Portal
 
 ![student](https://github.com/preraksemwal/IIITD_Mess/assets/77500750/f0c8810c-ebc2-4a9e-a58b-cf869d02d6e5)
 
-<h2>Admin Portal</h2>
+### :busts_in_silhouette: Admin Portal
 
 ![admin](https://github.com/preraksemwal/IIITD_Mess/assets/77500750/1a647e40-2a79-4c18-99fc-8cf37629346f)
 
