@@ -25,3 +25,10 @@ The admin can view and manipulate student data if required.</br>
 - Database: **MongoDB**
 - Authentication: **IIITD-only Google Authentication**
 - Location Services: User tracking using **location services**
+
+
+### :busts_in_silhouette: Other Contributors
+- Deeksha Singh Duvesh
+- Pragyan Yadav
+- Raman Diwakar
+- Rohan Danday
