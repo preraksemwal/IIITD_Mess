@@ -28,7 +28,7 @@ The admin can view and manipulate student data if required.</br>
 
 
 ### :busts_in_silhouette: Other Contributors
-- Deeksha Singh Duvesh
-- Pragyan Yadav
-- Raman Diwakar
-- Rohan Danday
+- [Deeksha Singh Duves](https://github.com/deeksha20049)
+- [Pragyan Yadav](https://github.com/sc0rp10n-py)
+- [Raman Diwakar](https://github.com/ramandiwakar)
+- [Rohan Danday](https://github.com/rohan19094)
