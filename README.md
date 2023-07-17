@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/preraksemwal/IIITD_Mess/blob/master/iiitd_mess.png">
+<img align="right" src="images/iiitd_mess.png">
 
 > The **_IIITD_Mess_** android app tracks the mess's occupancy, comprising the first and second floors. The app utilizes **Access Points** to determine the number of **clients** associated with each floor, enabling it to assess the presence of users in the mess. The app also analyzes the **Received Signal Strength Indicator** (RSSI) to verify if users are located inside the mess or associated with the access points but potentially situated outside the mess on the ground floor.</br></br></br>
 The app also has two portals:  **Student** and **Admin**.</br></br>
