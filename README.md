@@ -9,11 +9,12 @@ The admin can view and manipulate student data if required.</br>
 
 ### :busts_in_silhouette: Student Portal
 
-![student](https://github.com/preraksemwal/IIITD_Mess/assets/77500750/f0c8810c-ebc2-4a9e-a58b-cf869d02d6e5)
+
+![student](images/student_portal.png)
 
 ### :busts_in_silhouette: Admin Portal
 
-![admin](https://github.com/preraksemwal/IIITD_Mess/assets/77500750/1a647e40-2a79-4c18-99fc-8cf37629346f)
+![student](images/admin_portal.png)
 
 
 
